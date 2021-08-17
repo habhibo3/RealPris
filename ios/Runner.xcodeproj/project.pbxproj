@@ -433,7 +433,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.flutterLoginpage;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Prisapp.*;
 				PRODUCT_NAME = "$(TARGET_NAME)";
                 		PROVISIONING_PROFILE_SPECIFIER = com.example.flutter_loginpage;
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
@@ -461,7 +461,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.flutterLoginpage;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Prisapp.*;
 				PRODUCT_NAME = "$(TARGET_NAME)";
                 		PROVISIONING_PROFILE_SPECIFIER = "com.example.flutter_loginpage";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
